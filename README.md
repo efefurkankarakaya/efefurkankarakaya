@@ -3,5 +3,5 @@
 -->
 
 <div align="center">
-   <img src="https://discord.com/assets/559c3311dcdb3f23b7fb745559207db9.svg" width="400" />
+   <img src="https://discord.com/assets/559c3311dcdb3f23b7fb745559207db9.svg" width="200" />
 </div>
