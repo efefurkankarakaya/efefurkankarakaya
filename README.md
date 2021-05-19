@@ -34,7 +34,7 @@
    </div>
 
    <div class="social-media">
-      <a href="https://hackerrank.com/efekarakaya" target="_blank"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" /></a>
+      <a target="_blank" rel="noopener noreferrer" href="https://hackerrank.com/efekarakaya"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" /></a>
       <a target="_blank" href="https://www.youtube.com/channel/UCuGX_0FRdNkDneDAjAWVu3g"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
       <a target="_blank" href="https://linkedin.com/in/efefurkankarakaya"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
    </div>
