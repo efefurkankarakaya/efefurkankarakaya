@@ -2,6 +2,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=efefurkankarakaya&label=Profile%20views&color=4287f5&style=flat" alt="efefurkankarakaya" /> </p>
 -->
 
+<!--
 <div align="center">
    <div class="nerd">
       <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" />
@@ -39,3 +40,4 @@
       <a href="https://linkedin.com/in/efefurkankarakaya"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
    </div>
 </div>
+-->
