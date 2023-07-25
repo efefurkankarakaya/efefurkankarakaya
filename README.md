@@ -1,6 +1,6 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=efefurkankarakaya&label=Profile%20views&color=0e75b6&style=flat" alt="efefurkankarakaya" /> </p>
 
-<h3 align="center">Languages</h3>
+<h3 align="center">Favourite Languages</h3>
 <p align="center">
    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
