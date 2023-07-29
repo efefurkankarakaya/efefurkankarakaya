@@ -21,9 +21,11 @@
       <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="30"/> 
       </a> 
+      <img src="./logo/shape/dot3.png" alt="react" width="30" height="30"/> 
       <a href="https://golang.org" target="_blank" rel="noreferrer"> 
          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="30" height="30"/> 
       </a> 
+      <img src="./logo/shape/dot3.png" alt="react" width="30" height="30"/> 
       <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="30" height="30"/> 
       </a> 
@@ -39,45 +41,57 @@
       <a href="https://react.dev/" target="_blank" rel="noreferrer"> 
          <img src="./logo/tech/react.png" alt="react" width="35" height="30"/> 
       </a>
+      <img src="./logo/shape/dot3.png" alt="react" width="30" height="30"/> 
       <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> 
          <img src="./logo/tech/react-native.svg" alt="react-native" width="35" height="30"/> 
       </a>
+      <img src="./logo/shape/dot3.png" alt="react" width="30" height="30"/>
       <!-- Server / Runtime Environment -->
-      <a href="https://nodejs.org/" target="_blank" rel="noreferrer"> 
-         <img src="./logo/tech/nodejs.png" alt="node.js" width="30" height="30"/> 
+      <a href="https://nodejs.org/" target="_blank" rel="noreferrer">
+         <img src="./logo/tech/nodejs.png" alt="node.js" width="30" height="30"/>
       </a>
+      <img src="./logo/shape/dot3.png" alt="react" width="30" height="30"/> 
       <!-- Other Languages -->
-      <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
-         <img src="./logo/tech/ts.png" alt="typescript" width="30" height="30"/> 
+      <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+         <img src="./logo/tech/ts.png" alt="typescript" width="30" height="30"/>
       </a>
+      <img src="./logo/shape/dot3.png" alt="react" width="30" height="30"/> 
       <!-- Automation -->
-      <a href="https://playwright.dev/" target="_blank" rel="noreferrer"> 
-         <img src="./logo/tech/playwright.png" alt="playwright" width="30" height="30"/> 
+      <a href="https://playwright.dev/" target="_blank" rel="noreferrer">
+         <img src="./logo/tech/playwright.png" alt="playwright" width="30" height="30"/>
       </a>
-      <a href="https://pptr.dev/" target="_blank" rel="noreferrer"> 
-         <img src="./logo/tech/puppeteer.png" alt="puppeteer" width="20" height="30"/> 
+      <img src="./logo/shape/dot3.png" alt="react" width="30" height="30"/> 
+      <a href="https://pptr.dev/" target="_blank" rel="noreferrer">
+         <img src="./logo/tech/puppeteer.png" alt="puppeteer" width="20" height="30"/>
       </a>
-      <a href="https://selenium-python.readthedocs.io/index.html" target="_blank" rel="noreferrer"> 
-         <img src="./logo/tech/selenium.png" alt="selenium" width="30" height="30"/> 
+      <img src="./logo/shape/dot3.png" alt="react" width="30" height="30"/> 
+      <a href="https://selenium-python.readthedocs.io/index.html" target="_blank" rel="noreferrer">
+         <img src="./logo/tech/selenium.png" alt="selenium" width="30" height="30"/>
       </a>
+      <img src="./logo/shape/dot3.png" alt="react" width="30" height="30"/> 
       <!-- Databases -->
-      <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
-         <img src="./logo/tech/mongodb3.png" alt="mongodb" width="30" height="30"/> 
+      <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+         <img src="./logo/tech/mongodb3.png" alt="mongodb" width="30" height="30"/>
       </a>
-         <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-         <img src="./logo/tech/mysql.png" alt="mysql" width="30" height="30"/> 
+      <img src="./logo/shape/dot3.png" alt="react" width="30" height="30"/> 
+         <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+         <img src="./logo/tech/mysql.png" alt="mysql" width="30" height="30"/>
       </a>
+      <img src="./logo/shape/dot3.png" alt="react" width="30" height="30"/> 
       <!-- Version Control Systems -->
-      <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-         <img src="./logo/tech/git.png" alt="git" width="30" height="30"/> 
+      <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+         <img src="./logo/tech/git.png" alt="git" width="30" height="30"/>
       </a>
+      <img src="./logo/shape/dot3.png" alt="react" width="30" height="30"/> 
       <!-- Cloud -->
-      <a href="https://github.com/torvalds/linux" target="_blank" rel="noreferrer"> 
-         <img src="./logo/tech/linux.png" alt="linux" width="30" height="30"/> 
+      <a href="https://github.com/torvalds/linux" target="_blank" rel="noreferrer">
+         <img src="./logo/tech/linux.png" alt="linux" width="30" height="30"/>
       </a>
-      <a href="https://cloud.google.com/" target="_blank" rel="noreferrer"> 
-         <img src="./logo/tech/gcloud2.png" alt="google-cloud" width="35" height="30"/> 
+      <img src="./logo/shape/dot3.png" alt="react" width="30" height="30"/> 
+      <a href="https://cloud.google.com/" target="_blank" rel="noreferrer">
+         <img src="./logo/tech/gcloud2.png" alt="google-cloud" width="35" height="30"/>
       </a>
+
    </div>
 </div>
 
@@ -87,12 +101,16 @@
    <div id="inner-social">
       <a href="https://youtube.com/@efefurkankarakaya" target="_blank" rel="noreferrer"> 
          <img src="./logo/social/youtube2.webp" alt="Efe on YouTube" width="35" height="30"/>
+      </a>
+      <img src="./logo/shape/dot3.png" alt="react" width="30" height="30"/> 
       <a href="https://sptfy.com/efefurkankarakaya" target="_blank" rel="noreferrer"> 
          <img src="./logo/social/spotify.webp" alt="Efe on Spotify" width="30" height="30"/> 
       </a>
-         <a href="https://vsco.co/efefurkankarakaya" target="_blank" rel="noreferrer"> 
+      <img src="./logo/shape/dot3.png" alt="react" width="30" height="30"/> 
+      <a href="https://vsco.co/efefurkankarakaya" target="_blank" rel="noreferrer"> 
          <img src="./logo/social/vsco.png" alt="Efe on VSCO" width="30" height="30"/> 
       </a>
+      <img src="./logo/shape/dot3.png" alt="react" width="30" height="30"/> 
       <a href="https://efefurkankarakaya.com" target="_blank" rel="noreferrer"> 
          <img src="./logo/social/efk-logo.png" alt="EFK's personal website" width="30" height="30"> 
       </a>
