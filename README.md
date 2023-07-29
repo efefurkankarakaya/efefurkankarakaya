@@ -35,7 +35,7 @@
 <div id="experienced" align="center">
    <h3><font face="courier">Experienced Technologies</font></h3>
    <p align="center"><font face="courier">The experienced libraries, frameworks and others.</font></p>
-   <div id="inner-experienced>
+   <div id="inner-experienced">
       <!-- Front-end Libraries & Frameworks -->
       <!-- NOTE: React is not a framework, a library but React Native is. -->
       <a href="https://react.dev/" target="_blank" rel="noreferrer"> 
