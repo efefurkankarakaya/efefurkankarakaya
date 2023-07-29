@@ -10,13 +10,13 @@
 </div>
 
 <div id="about" align="center">
-   <h3 style="font-family:courier;">About</h3>
-   <p style="font-family:courier;">A computer engineer who is thrilled about Web and embraces the change in the world of technology.</p>
+   <h3><font face="courier">About</font></h3>
+   <p><font face="courier">A computer engineer who is thrilled about Web and embraces the change in the world of technology.</font></p>
 </div>
 
 <div id="favourite" align="center">
-   <h3 style="font-family:courier;">Favourite Languages</h3>
-   <p style="font-family:courier;" align="center">The favourites, nowadays.</p>
+   <h3><font face="courier">Favourite Languages</font></h3>
+   <p align="center"><font face="courier">The favourites, nowadays.</font></p>
    <div id="inner-favourite">
       <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="30"/> 
@@ -31,8 +31,8 @@
 </div>
 
 <div id="experienced" align="center">
-   <h3 style="font-family:courier;">Experienced Technologies</h3>
-   <p style="font-family:courier;" align="center">The experienced libraries, frameworks and others.</p>
+   <h3><font face="courier">Experienced Technologies</font></h3>
+   <p align="center"><font face="courier">The experienced libraries, frameworks and others.</font></p>
    <div id="inner-experienced>
       <!-- Front-end Libraries & Frameworks -->
       <!-- NOTE: React is not a framework, a library but React Native is. -->
@@ -82,8 +82,8 @@
 </div>
 
 <div id="social" align="center">
-   <h3 style="font-family:courier;">Social</h3>
-   <p style="font-family:courier;" align="center">The social accounts can be found below.</p>
+   <h3><font face="courier">Social</font></h3>
+   <p align="center"><font face="courier">The social accounts can be found below.</font></p>
    <div id="inner-social">
       <a href="https://youtube.com/@efefurkankarakaya" target="_blank" rel="noreferrer"> 
          <img src="./logo/social/youtube2.webp" alt="Efe on YouTube" width="35" height="30"/>
