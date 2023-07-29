@@ -115,7 +115,6 @@
       <a href="https://cloud.google.com/" target="_blank" rel="noreferrer">
          <img src="./logo/tech/gcloud2.png" alt="google-cloud" width="35" height="30"/>
       </a>
-
    </div>
 </div>
 
@@ -144,6 +143,19 @@
       <a href="https://efefurkankarakaya.com" target="_blank" rel="noreferrer"> 
          <img src="./logo/social/efk-logo.png" alt="EFK's personal website" width="30" height="30"> 
       </a>
+      <!-- DOT BEGINS -->
+      <img src="./logo/shape/dot3.png" alt="react" width="30" height="30"/>
+      <!-- DOT ENDS -->
+      <a href="https://linkedin.com/in/efefurkankarakaya" target="_blank" rel="noreferrer">
+         <img src="./logo/social/linkedin.png" alt="EFK's personal website" width="30" height="30">
+      </a>
+      <!-- DOT BEGINS -->
+      <img src="./logo/shape/dot3.png" alt="react" width="30" height="30"/>
+      <!-- DOT ENDS -->
+      <a href="mailto:efkbusiness@outlook.com" target="_blank" rel="noreferrer">
+         <img src="./logo/social/outlook.png" alt="EFK's personal website" width="30" height="30">
+      </a>
+
    </div>
 </div>
 
