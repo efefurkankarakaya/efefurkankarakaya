@@ -62,6 +62,15 @@
       </a>
       <!-- DOT BEGINS -->
       <img src="./logo/shape/dot3.png" alt="react" width="30" height="30"/> 
+      <!-- DOT ENDS -->
+      <!-- CSS (Cascading Style Sheets) is not a programming language, it's a Style Sheet Language. By the way, if you haven't ever tried JSS, I'd recommend you to try at least once. 
+      JSS: https://cssinjs.org/
+      -->
+      <a href="https://www.w3schools.com/css/default.asp" target="_blank" rel="noreferrer">
+         <img src="./logo/tech/css.png" alt="selenium" width="30" height="30"/>
+      </a>
+      <!-- DOT BEGINS -->
+      <img src="./logo/shape/dot3.png" alt="react" width="30" height="30"/> 
       <!-- DOT ENDS --> 
       <!-- Automation -->
       <a href="https://playwright.dev/" target="_blank" rel="noreferrer">
@@ -72,12 +81,6 @@
       <!-- DOT ENDS --> 
       <a href="https://pptr.dev/" target="_blank" rel="noreferrer">
          <img src="./logo/tech/puppeteer.png" alt="puppeteer" width="20" height="30"/>
-      </a>
-      <!-- DOT BEGINS -->
-      <img src="./logo/shape/dot3.png" alt="react" width="30" height="30"/> 
-      <!-- DOT ENDS --> 
-      <a href="https://selenium-python.readthedocs.io/index.html" target="_blank" rel="noreferrer">
-         <img src="./logo/tech/selenium.png" alt="selenium" width="30" height="30"/>
       </a>
       <!-- DOT BEGINS -->
       <img src="./logo/shape/dot3.png" alt="react" width="30" height="30"/> 
