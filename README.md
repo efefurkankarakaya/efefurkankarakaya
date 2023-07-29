@@ -1,17 +1,103 @@
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=efefurkankarakaya&label=Profile%20views&color=0e75b6&style=flat" alt="efefurkankarakaya" /> </p>
+<!-- <p align="center> <img src="./efk-logo.png" width=30 height=30 /> </p> -->
 
-<h3 align="center">Favourite Languages</h3>
-<p align="center">
-   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-   </a> 
-   <a href="https://golang.org" target="_blank" rel="noreferrer"> 
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> 
-   </a> 
-   <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-   </a> 
-</p>
+<!-- <p align="center">
+</p> -->
+
+<div name="stats" align="center">
+   <p align="center"> 
+      <img src="https://komarev.com/ghpvc/?username=efefurkankarakaya&label=Profile%20views&color=0e75b6&style=flat" alt="efefurkankarakaya" /> 
+   </p>
+</div>
+
+<div id="about" align="center">
+   <h3 style="font-family:courier;">About</h3>
+   <p style="font-family:courier;">A computer engineer who is thrilled about Web and embraces the change in the world of technology.</p>
+</div>
+
+<div id="favourite" align="center">
+   <h3 style="font-family:courier;">Favourite Languages</h3>
+   <p style="font-family:courier;" align="center">The favourites, nowadays.</p>
+   <div id="inner-favourite">
+      <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
+         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="30"/> 
+      </a> 
+      <a href="https://golang.org" target="_blank" rel="noreferrer"> 
+         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="30" height="30"/> 
+      </a> 
+      <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
+         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="30" height="30"/> 
+      </a> 
+   </div>
+</div>
+
+<div id="experienced" align="center">
+   <h3 style="font-family:courier;">Experienced Technologies</h3>
+   <p style="font-family:courier;" align="center">The experienced libraries, frameworks and others.</p>
+   <div id="inner-experienced>
+      <!-- Front-end Libraries & Frameworks -->
+      <!-- NOTE: React is not a framework, a library but React Native is. -->
+      <a href="https://react.dev/" target="_blank" rel="noreferrer"> 
+         <img src="./logo/tech/react.png" alt="react" width="35" height="30"/> 
+      </a>
+      <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> 
+         <img src="./logo/tech/react-native.svg" alt="react-native" width="35" height="30"/> 
+      </a>
+      <!-- Server / Runtime Environment -->
+      <a href="https://nodejs.org/" target="_blank" rel="noreferrer"> 
+         <img src="./logo/tech/nodejs.png" alt="node.js" width="30" height="30"/> 
+      </a>
+      <!-- Other Languages -->
+      <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
+         <img src="./logo/tech/ts.png" alt="typescript" width="30" height="30"/> 
+      </a>
+      <!-- Automation -->
+      <a href="https://playwright.dev/" target="_blank" rel="noreferrer"> 
+         <img src="./logo/tech/playwright.png" alt="playwright" width="30" height="30"/> 
+      </a>
+      <a href="https://pptr.dev/" target="_blank" rel="noreferrer"> 
+         <img src="./logo/tech/puppeteer.png" alt="puppeteer" width="20" height="30"/> 
+      </a>
+      <a href="https://selenium-python.readthedocs.io/index.html" target="_blank" rel="noreferrer"> 
+         <img src="./logo/tech/selenium.png" alt="selenium" width="30" height="30"/> 
+      </a>
+      <!-- Databases -->
+      <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
+         <img src="./logo/tech/mongodb3.png" alt="mongodb" width="30" height="30"/> 
+      </a>
+         <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
+         <img src="./logo/tech/mysql.png" alt="mysql" width="30" height="30"/> 
+      </a>
+      <!-- Version Control Systems -->
+      <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
+         <img src="./logo/tech/git.png" alt="git" width="30" height="30"/> 
+      </a>
+      <!-- Cloud -->
+      <a href="https://github.com/torvalds/linux" target="_blank" rel="noreferrer"> 
+         <img src="./logo/tech/linux.png" alt="linux" width="30" height="30"/> 
+      </a>
+      <a href="https://cloud.google.com/" target="_blank" rel="noreferrer"> 
+         <img src="./logo/tech/gcloud2.png" alt="google-cloud" width="35" height="30"/> 
+      </a>
+   </div>
+</div>
+
+<div id="social" align="center">
+   <h3 style="font-family:courier;">Social</h3>
+   <p style="font-family:courier;" align="center">The social accounts can be found below.</p>
+   <div id="inner-social">
+      <a href="https://youtube.com/@efefurkankarakaya" target="_blank" rel="noreferrer"> 
+         <img src="./logo/social/youtube2.webp" alt="Efe on YouTube" width="35" height="30"/>
+      <a href="https://sptfy.com/efefurkankarakaya" target="_blank" rel="noreferrer"> 
+         <img src="./logo/social/spotify.webp" alt="Efe on Spotify" width="30" height="30"/> 
+      </a>
+         <a href="https://vsco.co/efefurkankarakaya" target="_blank" rel="noreferrer"> 
+         <img src="./logo/social/vsco.png" alt="Efe on VSCO" width="30" height="30"/> 
+      </a>
+      <a href="https://efefurkankarakaya.com" target="_blank" rel="noreferrer"> 
+         <img src="./logo/social/efk-logo.png" alt="EFK's personal website" width="30" height="30"> 
+      </a>
+   </div>
+</div>
 
 <!--
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=efefurkankarakaya&label=Profile%20views&color=4287f5&style=flat" alt="efefurkankarakaya" /> </p>
@@ -38,7 +124,7 @@
    <div class="concepts">
       <img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" />
    </div>
-   
+
    <div class="databases">
       <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
       <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
