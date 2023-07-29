@@ -67,7 +67,7 @@
       JSS: https://cssinjs.org/
       -->
       <a href="https://www.w3schools.com/css/default.asp" target="_blank" rel="noreferrer">
-         <img src="./logo/tech/css.png" alt="selenium" width="30" height="30"/>
+         <img src="./logo/tech/css-transparent.png" alt="selenium" width="30" height="30"/>
       </a>
       <!-- DOT BEGINS -->
       <img src="./logo/shape/dot3.png" alt="react" width="30" height="30"/> 
