@@ -128,12 +128,6 @@
       <!-- DOT BEGINS -->
       <img src="./logo/shape/dot3.png" alt="dot" width="30" height="30"/> 
       <!-- DOT ENDS --> 
-      <a href="https://sptfy.com/efefurkankarakaya" target="_blank" rel="noreferrer"> 
-         <img src="./logo/social/spotify.webp" alt="Efe on Spotify" width="30" height="30"/> 
-      </a>
-      <!-- DOT BEGINS -->
-      <img src="./logo/shape/dot3.png" alt="dot" width="30" height="30"/> 
-      <!-- DOT ENDS --> 
       <a href="https://vsco.co/efefurkankarakaya" target="_blank" rel="noreferrer"> 
          <img src="./logo/social/vsco.png" alt="Efe on VSCO" width="30" height="30"/> 
       </a>
