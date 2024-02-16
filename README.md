@@ -1,156 +1,449 @@
-<div name="stats" align="center">
-   <p align="center"> 
-      <img src="https://komarev.com/ghpvc/?username=efefurkankarakaya&label=Profile%20views&color=0e75b6&style=flat" alt="efefurkankarakaya" /> 
-   </p>
+<div
+  name="stats"
+  align="center"
+>
+  <p align="center">
+    <img
+      src="https://komarev.com/ghpvc/?username=efefurkankarakaya&label=Profile%20views&color=0e75b6&style=flat"
+      alt="efefurkankarakaya"
+    />
+  </p>
 </div>
 
-<div id="about" align="center">
-   <h3><font face="courier">About</font></h3>
-   <p><font face="courier">A computer engineer who is thrilled about Web and embraces the change in the world of technology.</font></p>
+<div
+  id="about"
+  align="center"
+>
+  <h3><font face="courier">About</font></h3>
+  <p>
+    <font face="courier"
+      >A computer engineer who is thrilled about Web and embraces the change in
+      the world of technology.</font
+    >
+  </p>
 </div>
 
-<div id="favourite" align="center">
-   <h3><font face="courier">Favourite Languages</font></h3>
-   <p align="center"><font face="courier">The favourites, nowadays.</font></p>
-   <div id="inner-favourite">
-      <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="30"/> 
-      </a> 
-      <!-- DOT BEGINS -->
-      <img src="./logo/shape/dot3.png" alt="dot" width="30" height="30"/> 
-      <!-- DOT ENDS --> 
-      <a href="https://golang.org" target="_blank" rel="noreferrer"> 
-         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="30" height="30"/> 
-      </a> 
-      <!-- DOT BEGINS -->
-      <img src="./logo/shape/dot3.png" alt="dot" width="30" height="30"/> 
-      <!-- DOT ENDS --> 
-      <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="30" height="30"/> 
-      </a> 
-   </div>
+<div
+  id="favourite"
+  align="center"
+>
+  <h3><font face="courier">Favourite Languages</font></h3>
+  <p align="center"><font face="courier">The favourites, nowadays.</font></p>
+  <div id="inner-favourite">
+    <a
+      href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
+      target="_blank"
+      rel="noreferrer"
+    >
+      <img
+        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
+        alt="javascript"
+        width="30"
+        height="30"
+      />
+    </a>
+    <!-- DOT BEGINS -->
+    <img
+      src="./logo/shape/dot3.png"
+      alt="dot"
+      width="30"
+      height="30"
+    />
+    <!-- DOT ENDS -->
+    <a
+      href="https://golang.org"
+      target="_blank"
+      rel="noreferrer"
+    >
+      <img
+        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg"
+        alt="go"
+        width="30"
+        height="30"
+      />
+    </a>
+    <!-- DOT BEGINS -->
+    <img
+      src="./logo/shape/dot3.png"
+      alt="dot"
+      width="30"
+      height="30"
+    />
+    <!-- DOT ENDS -->
+    <a
+      href="https://www.python.org"
+      target="_blank"
+      rel="noreferrer"
+    >
+      <img
+        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
+        alt="python"
+        width="30"
+        height="30"
+      />
+    </a>
+  </div>
 </div>
 
-<div id="experienced" align="center">
-   <h3><font face="courier">Experienced Technologies</font></h3>
-   <p align="center"><font face="courier">The experienced libraries, frameworks and others.</font></p>
-   <div id="inner-experienced">
-      <!-- Front-end Libraries & Frameworks -->
-      <!-- NOTE: React is not a framework, a library but React Native is. -->
-      <a href="https://react.dev/" target="_blank" rel="noreferrer"> 
-         <img src="./logo/tech/react.png" alt="react" width="35" height="30"/> 
-      </a>
-      <!-- DOT BEGINS -->
-      <img src="./logo/shape/dot3.png" alt="dot" width="30" height="30"/> 
-      <!-- DOT ENDS --> 
-      <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> 
-         <img src="./logo/tech/react-native.svg" alt="react-native" width="35" height="30"/> 
-      </a>
-      <!-- DOT BEGINS -->
-      <img src="./logo/shape/dot3.png" alt="dot" width="30" height="30"/> 
-      <!-- DOT ENDS -->
-      <!-- Server / Runtime Environment -->
-      <a href="https://nodejs.org/" target="_blank" rel="noreferrer">
-         <img src="./logo/tech/nodejs.png" alt="node.js" width="30" height="30"/>
-      </a>
-      <!-- DOT BEGINS -->
-      <img src="./logo/shape/dot3.png" alt="dot" width="30" height="30"/> 
-      <!-- DOT ENDS --> 
-      <!-- Other Languages -->
-      <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-         <img src="./logo/tech/ts.png" alt="typescript" width="30" height="30"/>
-      </a>
-      <!-- DOT BEGINS -->
-      <img src="./logo/shape/dot3.png" alt="dot" width="30" height="30"/> 
-      <!-- DOT ENDS -->
-      <!-- CSS (Cascading Style Sheets) is not a programming language, it's a Style Sheet Language. By the way, if you haven't ever tried JSS, I'd recommend you to try at least once. 
+<div
+  id="experienced"
+  align="center"
+>
+  <h3><font face="courier">Experienced Technologies</font></h3>
+  <p align="center">
+    <font face="courier"
+      >The experienced libraries, frameworks and others.</font
+    >
+  </p>
+  <div id="inner-experienced">
+    <!-- Front-end Libraries & Frameworks -->
+    <!-- NOTE: React is not a framework, a library but React Native is. -->
+    <a
+      href="https://react.dev/"
+      target="_blank"
+      rel="noreferrer"
+    >
+      <img
+        src="./logo/tech/react.png"
+        alt="react"
+        width="35"
+        height="30"
+      />
+    </a>
+    <!-- DOT BEGINS -->
+    <img
+      src="./logo/shape/dot3.png"
+      alt="dot"
+      width="30"
+      height="30"
+    />
+    <!-- DOT ENDS -->
+    <a
+      href="https://reactnative.dev/"
+      target="_blank"
+      rel="noreferrer"
+    >
+      <img
+        src="./logo/tech/react-native.svg"
+        alt="react-native"
+        width="35"
+        height="30"
+      />
+    </a>
+    <!-- DOT BEGINS -->
+    <img
+      src="./logo/shape/dot3.png"
+      alt="dot"
+      width="30"
+      height="30"
+    />
+    <!-- DOT ENDS -->
+    <!-- Server / Runtime Environment -->
+    <a
+      href="https://nodejs.org/"
+      target="_blank"
+      rel="noreferrer"
+    >
+      <img
+        src="./logo/tech/nodejs.png"
+        alt="node.js"
+        width="30"
+        height="30"
+      />
+    </a>
+    <!-- DOT BEGINS -->
+    <img
+      src="./logo/shape/dot3.png"
+      alt="dot"
+      width="30"
+      height="30"
+    />
+    <!-- DOT ENDS -->
+    <!-- Other Languages -->
+    <a
+      href="https://www.typescriptlang.org/"
+      target="_blank"
+      rel="noreferrer"
+    >
+      <img
+        src="./logo/tech/ts.png"
+        alt="typescript"
+        width="30"
+        height="30"
+      />
+    </a>
+    <!-- DOT BEGINS -->
+    <img
+      src="./logo/shape/dot3.png"
+      alt="dot"
+      width="30"
+      height="30"
+    />
+    <!-- DOT ENDS -->
+    <!-- CSS (Cascading Style Sheets) is not a programming language, it's a Style Sheet Language. By the way, if you haven't ever tried JSS, I'd recommend you to try at least once. 
       JSS: https://cssinjs.org/
       -->
-      <a href="https://www.w3schools.com/css/default.asp" target="_blank" rel="noreferrer">
-         <img src="./logo/tech/css-transparent.png" alt="selenium" width="30" height="30"/>
-      </a>
-      <!-- DOT BEGINS -->
-      <img src="./logo/shape/dot3.png" alt="dot" width="30" height="30"/> 
-      <!-- DOT ENDS --> 
-      <!-- Automation -->
-      <a href="https://playwright.dev/" target="_blank" rel="noreferrer">
-         <img src="./logo/tech/playwright.png" alt="playwright" width="30" height="30"/>
-      </a>
-      <!-- DOT BEGINS -->
-      <img src="./logo/shape/dot3.png" alt="dot" width="30" height="30"/> 
-      <!-- DOT ENDS --> 
-      <a href="https://pptr.dev/" target="_blank" rel="noreferrer">
-         <img src="./logo/tech/puppeteer.png" alt="puppeteer" width="20" height="30"/>
-      </a>
-      <!-- DOT BEGINS -->
-      <img src="./logo/shape/dot3.png" alt="dot" width="30" height="30"/> 
-      <!-- DOT ENDS --> 
-      <!-- Databases -->
-      <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-         <img src="./logo/tech/mongodb3.png" alt="mongodb" width="30" height="30"/>
-      </a>
-      <!-- DOT BEGINS -->
-      <img src="./logo/shape/dot3.png" alt="dot" width="30" height="30"/> 
-      <!-- DOT ENDS --> 
-         <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-         <img src="./logo/tech/mysql.png" alt="mysql" width="30" height="30"/>
-      </a>
-      <!-- DOT BEGINS -->
-      <img src="./logo/shape/dot3.png" alt="dot" width="30" height="30"/> 
-      <!-- DOT ENDS --> 
-      <!-- Version Control Systems -->
-      <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-         <img src="./logo/tech/git.png" alt="git" width="30" height="30"/>
-      </a>
-      <!-- DOT BEGINS -->
-      <img src="./logo/shape/dot3.png" alt="dot" width="30" height="30"/> 
-      <!-- DOT ENDS --> 
-      <!-- Cloud -->
-      <a href="https://github.com/torvalds/linux" target="_blank" rel="noreferrer">
-         <img src="./logo/tech/linux.png" alt="linux" width="30" height="30"/>
-      </a>
-      <!-- DOT BEGINS -->
-      <img src="./logo/shape/dot3.png" alt="dot" width="30" height="30"/> 
-      <!-- DOT ENDS --> 
-      <a href="https://cloud.google.com/" target="_blank" rel="noreferrer">
-         <img src="./logo/tech/gcloud2.png" alt="google-cloud" width="35" height="30"/>
-      </a>
-   </div>
+    <a
+      href="https://www.w3schools.com/css/default.asp"
+      target="_blank"
+      rel="noreferrer"
+    >
+      <img
+        src="./logo/tech/css-transparent.png"
+        alt="selenium"
+        width="30"
+        height="30"
+      />
+    </a>
+    <!-- DOT BEGINS -->
+    <img
+      src="./logo/shape/dot3.png"
+      alt="dot"
+      width="30"
+      height="30"
+    />
+    <!-- DOT ENDS -->
+    <!-- Automation -->
+    <a
+      href="https://playwright.dev/"
+      target="_blank"
+      rel="noreferrer"
+    >
+      <img
+        src="./logo/tech/playwright.png"
+        alt="playwright"
+        width="30"
+        height="30"
+      />
+    </a>
+    <!-- DOT BEGINS -->
+    <img
+      src="./logo/shape/dot3.png"
+      alt="dot"
+      width="30"
+      height="30"
+    />
+    <!-- DOT ENDS -->
+    <a
+      href="https://pptr.dev/"
+      target="_blank"
+      rel="noreferrer"
+    >
+      <img
+        src="./logo/tech/puppeteer.png"
+        alt="puppeteer"
+        width="20"
+        height="30"
+      />
+    </a>
+    <!-- DOT BEGINS -->
+    <img
+      src="./logo/shape/dot3.png"
+      alt="dot"
+      width="30"
+      height="30"
+    />
+    <!-- DOT ENDS -->
+    <!-- Databases -->
+    <a
+      href="https://www.mongodb.com/"
+      target="_blank"
+      rel="noreferrer"
+    >
+      <img
+        src="./logo/tech/mongodb3.png"
+        alt="mongodb"
+        width="30"
+        height="30"
+      />
+    </a>
+    <!-- DOT BEGINS -->
+    <img
+      src="./logo/shape/dot3.png"
+      alt="dot"
+      width="30"
+      height="30"
+    />
+    <!-- DOT ENDS -->
+    <a
+      href="https://www.mysql.com/"
+      target="_blank"
+      rel="noreferrer"
+    >
+      <img
+        src="./logo/tech/mysql.png"
+        alt="mysql"
+        width="30"
+        height="30"
+      />
+    </a>
+    <!-- DOT BEGINS -->
+    <img
+      src="./logo/shape/dot3.png"
+      alt="dot"
+      width="30"
+      height="30"
+    />
+    <!-- DOT ENDS -->
+    <!-- Version Control Systems -->
+    <a
+      href="https://git-scm.com/"
+      target="_blank"
+      rel="noreferrer"
+    >
+      <img
+        src="./logo/tech/git.png"
+        alt="git"
+        width="30"
+        height="30"
+      />
+    </a>
+    <!-- DOT BEGINS -->
+    <img
+      src="./logo/shape/dot3.png"
+      alt="dot"
+      width="30"
+      height="30"
+    />
+    <!-- DOT ENDS -->
+    <!-- Cloud -->
+    <a
+      href="https://github.com/torvalds/linux"
+      target="_blank"
+      rel="noreferrer"
+    >
+      <img
+        src="./logo/tech/linux.png"
+        alt="linux"
+        width="30"
+        height="30"
+      />
+    </a>
+    <!-- DOT BEGINS -->
+    <img
+      src="./logo/shape/dot3.png"
+      alt="dot"
+      width="30"
+      height="30"
+    />
+    <!-- DOT ENDS -->
+    <a
+      href="https://cloud.google.com/"
+      target="_blank"
+      rel="noreferrer"
+    >
+      <img
+        src="./logo/tech/gcloud2.png"
+        alt="google-cloud"
+        width="35"
+        height="30"
+      />
+    </a>
+  </div>
 </div>
 
-<div id="social" align="center">
-   <h3><font face="courier">Social</font></h3>
-   <p align="center"><font face="courier">The social accounts can be found below.</font></p>
-   <div id="inner-social">
-      <a href="https://youtube.com/@efefurkankarakaya" target="_blank" rel="noreferrer"> 
-         <img src="./logo/social/youtube2.webp" alt="Efe on YouTube" width="35" height="30"/>
-      </a>
-      <!-- DOT BEGINS -->
-      <img src="./logo/shape/dot3.png" alt="dot" width="30" height="30"/> 
-      <!-- DOT ENDS --> 
-      <a href="https://vsco.co/efefurkankarakaya" target="_blank" rel="noreferrer"> 
-         <img src="./logo/social/vsco.png" alt="Efe on VSCO" width="30" height="30"/> 
-      </a>
-      <!-- DOT BEGINS -->
-      <img src="./logo/shape/dot3.png" alt="dot" width="30" height="30"/> 
-      <!-- DOT ENDS --> 
-      <a href="https://efefurkankarakaya.com" target="_blank" rel="noreferrer"> 
-         <img src="./logo/social/efk-logo.png" alt="EFK's personal website" width="30" height="30"> 
-      </a>
-      <!-- DOT BEGINS -->
-      <img src="./logo/shape/dot3.png" alt="dot" width="30" height="30"/>
-      <!-- DOT ENDS -->
-      <a href="https://linkedin.com/in/efefurkankarakaya" target="_blank" rel="noreferrer">
-         <img src="./logo/social/linkedin.png" alt="EFK's personal website" width="30" height="30">
-      </a>
-      <!-- DOT BEGINS -->
-      <img src="./logo/shape/dot3.png" alt="dot" width="30" height="30"/>
-      <!-- DOT ENDS -->
-      <a href="mailto:efkbusiness@outlook.com" target="_blank" rel="noreferrer">
-         <img src="./logo/social/outlook.png" alt="EFK's personal website" width="30" height="30">
-      </a>
-
-   </div>
+<div
+  id="social"
+  align="center"
+>
+  <h3><font face="courier">Social</font></h3>
+  <p align="center">
+    <font face="courier">The social accounts can be found below.</font>
+  </p>
+  <div id="inner-social">
+    <a
+      href="https://youtube.com/@efefurkankarakaya"
+      target="_blank"
+      rel="noreferrer"
+    >
+      <img
+        src="./logo/social/youtube2.webp"
+        alt="Efe on YouTube"
+        width="35"
+        height="30"
+      />
+    </a>
+    <!-- DOT BEGINS -->
+    <img
+      src="./logo/shape/dot3.png"
+      alt="dot"
+      width="30"
+      height="30"
+    />
+    <!-- DOT ENDS -->
+    <a
+      href="https://vsco.co/efefurkankarakaya"
+      target="_blank"
+      rel="noreferrer"
+    >
+      <img
+        src="./logo/social/vsco.png"
+        alt="Efe on VSCO"
+        width="30"
+        height="30"
+      />
+    </a>
+    <!-- DOT BEGINS -->
+    <img
+      src="./logo/shape/dot3.png"
+      alt="dot"
+      width="30"
+      height="30"
+    />
+    <!-- DOT ENDS -->
+    <a
+      href="https://efefurkankarakaya.com"
+      target="_blank"
+      rel="noreferrer"
+    >
+      <img
+        src="./logo/social/efk-logo.png"
+        alt="EFK's personal website"
+        width="30"
+        height="30"
+      />
+    </a>
+    <!-- DOT BEGINS -->
+    <img
+      src="./logo/shape/dot3.png"
+      alt="dot"
+      width="30"
+      height="30"
+    />
+    <!-- DOT ENDS -->
+    <a
+      href="https://linkedin.com/in/efefurkankarakaya"
+      target="_blank"
+      rel="noreferrer"
+    >
+      <img
+        src="./logo/social/linkedin.png"
+        alt="EFK's personal website"
+        width="30"
+        height="30"
+      />
+    </a>
+    <!-- DOT BEGINS -->
+    <img
+      src="./logo/shape/dot3.png"
+      alt="dot"
+      width="30"
+      height="30"
+    />
+    <!-- DOT ENDS -->
+    <a
+      href="mailto:efkbusiness@outlook.com"
+      target="_blank"
+      rel="noreferrer"
+    >
+      <img
+        src="./logo/social/outlook.png"
+        alt="EFK's personal website"
+        width="30"
+        height="30"
+      />
+    </a>
+  </div>
 </div>
 
 <!--

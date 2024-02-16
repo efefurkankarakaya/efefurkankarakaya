@@ -1,3 +1,5 @@
+name: "Markdown Syntax Check"
+
 on: [push, pull_request]
 
 jobs:
