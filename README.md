@@ -9,6 +9,19 @@
     />
   </p>
 
+    <a
+      href="https://github.com/torvalds/linux"
+      target="_blank"
+      rel="noreferrer"
+    >
+      <img
+        src="./logo/tech/linux.png"
+        alt="linux"
+        width="30"
+        height="30"
+      />
+    </a>
+
    <a
       href="https://golang.org"
       target="_blank"
