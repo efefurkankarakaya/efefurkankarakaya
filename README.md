@@ -16,8 +16,8 @@
     <img
       src="./logo/tech/linux.png"
       alt="linux"
-      width="150"
-      height="150"
+      width="120"
+      height="120"
     />
   </a>
    <a
