@@ -8,7 +8,6 @@
       alt="efefurkankarakaya"
     />
   </p>
-
   <a
     href="https://github.com/torvalds/linux"
     target="_blank"
@@ -21,7 +20,6 @@
       height="30"
     />
   </a>
-
    <a
       href="https://golang.org"
       target="_blank"
