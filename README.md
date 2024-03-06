@@ -8,6 +8,7 @@
       alt="efefurkankarakaya"
     />
   </p>
+  <!--
   <a
     href="https://github.com/torvalds/linux"
     target="_blank"
@@ -32,5 +33,6 @@
         height="150"
       />
     </a>
+  -->
 </div>
 
