@@ -10,6 +10,7 @@
   </p>
 </div>
 
+<!--
 <div
   id="about"
   align="center"
@@ -22,6 +23,20 @@
     >
   </p>
 </div>
+-->
+   
+   <a
+      href="https://golang.org"
+      target="_blank"
+      rel="noreferrer"
+    >
+      <img
+        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg"
+        alt="go"
+        width="70"
+        height="70"
+      />
+    </a>
 
 <div
   id="favourite"
